@@ -34,7 +34,8 @@ function Projects() {
               isBlog={false}
               title="SubsMaster"
               description="A web application made specially for managing various users with different subscriptions. With Data Handling and Activation/Deactivation and Extension of subscriptions."
-
+              ghLink="https://github.com/ynezdias/HackXWebsite"
+              
             />
           </Col>
 
