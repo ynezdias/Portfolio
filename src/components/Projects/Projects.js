@@ -24,6 +24,7 @@ function Projects() {
               isBlog={false}
               title="E-Health Care"
               description="A end user support and online consultation project. A web-based application that allows patient to get instand guidance on their health issues. Prediction of diseases and etc"
+              ghLink="https://github.com/ynezdias/E-HealthCare"
 
             />
           </Col>
